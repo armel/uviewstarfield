@@ -6,11 +6,13 @@ uViewStarfield is a small experiment to implement a starfield effect on a MicroV
 
 Just for fun, this circuit works with a potentiometer. A potentiometer is also known as a variable resistor. With it, it's possible to change the number of stars (between 10 and 80).
 
+There is a [demo video] (https://vimeo.com/115679234) on Vimeo.
+
 #Schematic
 
 ![Schematic](schematic.png "schematic")
 
-Enjoy \o/
+That's all \o/
 
 #License
 
